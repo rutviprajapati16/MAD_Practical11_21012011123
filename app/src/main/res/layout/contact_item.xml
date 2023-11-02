@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/materialCardView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="30dp"
+        app:cardCornerRadius="20dp"
+        app:cardElevation="20dp">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="20dp">
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/person_btn"
+                style="?materialIconButtonFilledStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="60dp"
+                android:layout_marginStart="15dp"
+                android:backgroundTint="@color/cardview_dark_background"
+                android:drawableTint="@color/white"
+                app:icon="@drawable/baseline_person_24"
+                app:iconGravity="textStart"
+                app:iconSize="30dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/name_textView"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:ellipsize="end"
+                android:text="John  Gill"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toTopOf="@+id/number_textView"
+                app:layout_constraintStart_toEndOf="@+id/person_btn"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_chainStyle="spread_inside" />
+
+            <TextView
+                android:id="@+id/number_textView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:text="+91 7983356739"
+                app:layout_constraintBottom_toTopOf="@+id/email_textView"
+                app:layout_constraintStart_toStartOf="@+id/name_textView"
+                app:layout_constraintTop_toBottomOf="@+id/name_textView" />
+
+            <TextView
+                android:id="@+id/email_textView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:text="john123@gmail.com"
+                app:layout_constraintBottom_toTopOf="@+id/address_textView"
+                app:layout_constraintStart_toStartOf="@+id/name_textView"
+                app:layout_constraintTop_toBottomOf="@+id/number_textView" />
+
+            <TextView
+                android:id="@+id/address_textView"
+                android:layout_width="160dp"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:text="S-2, Someshwar Banglows, \nAhemdabad"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="@+id/number_textView"
+                app:layout_constraintTop_toBottomOf="@+id/email_textView" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/location_btn"
+                style="?materialIconButtonFilledStyle"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_marginEnd="4dp"
+                android:backgroundTint="#0000ff"
+                android:drawableTint="@color/white"
+                app:icon="@drawable/baseline_location_on_24"
+                app:iconGravity="textStart"
+                app:iconSize="30dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/delete_btn"
+                style="?materialIconButtonFilledStyle"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_marginEnd="4dp"
+                android:backgroundTint="#FF0015"
+                android:drawableTint="@color/white"
+                app:icon="@drawable/baseline_delete_24"
+                app:iconGravity="textStart"
+                app:iconSize="30dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/location_btn" />
+
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </com.google.android.material.card.MaterialCardView>
+
+</LinearLayout>
