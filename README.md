@@ -15,11 +15,11 @@ Consider Android Application created in Practical-10 and add Sqlite feature such
 **Output:**
 
 **Light Theme:**
-< img src=https://github.com/rutviprajapati16/MAD_Practical11_21012011123/assets/97946004/eb03fee5-69e8-4d00-9a64-050b0478750b height="400" width="350">
+< img src="https://github.com/rutviprajapati16/MAD_Practical11_21012011123/assets/97946004/eb03fee5-69e8-4d00-9a64-050b0478750b" height="400" width="350">
 
-< img src=https://github.com/rutviprajapati16/MAD_Practical11_21012011123/assets/97946004/c1ed4887-c755-4ef5-8db4-63a163091977 height="400" width="350">
+< img src="https://github.com/rutviprajapati16/MAD_Practical11_21012011123/assets/97946004/c1ed4887-c755-4ef5-8db4-63a163091977" height="400" width="350">
 
-< img src=https://github.com/rutviprajapati16/MAD_Practical11_21012011123/assets/97946004/129176ca-92f7-4127-b15c-38019878c56f height="400" width="350">
+< img src="https://github.com/rutviprajapati16/MAD_Practical11_21012011123/assets/97946004/129176ca-92f7-4127-b15c-38019878c56f" height="400" width="350">
 
 
 
@@ -27,11 +27,11 @@ Consider Android Application created in Practical-10 and add Sqlite feature such
 
 
 **Dark Theme:**
-< img src=https://github.com/rutviprajapati16/MAD_Practical11_21012011123/assets/97946004/dd3b7d5e-1980-42e1-ac43-fbb768851e22 height="400" width="350">
+< img src="https://github.com/rutviprajapati16/MAD_Practical11_21012011123/assets/97946004/dd3b7d5e-1980-42e1-ac43-fbb768851e22" height="400" width="350">
 
-< img src=https://github.com/rutviprajapati16/MAD_Practical11_21012011123/assets/97946004/6d7cdd10-4dfc-4a8f-8544-4b9017d14b59 height="400" width="350">
+< img src="https://github.com/rutviprajapati16/MAD_Practical11_21012011123/assets/97946004/6d7cdd10-4dfc-4a8f-8544-4b9017d14b59" height="400" width="350">
 
-< img src=https://github.com/rutviprajapati16/MAD_Practical11_21012011123/assets/97946004/3ccc0195-60fa-43c7-ab0d-55a50833d609 height="400" width="350">
+< img src="https://github.com/rutviprajapati16/MAD_Practical11_21012011123/assets/97946004/3ccc0195-60fa-43c7-ab0d-55a50833d609" height="400" width="350">
 
 
 
