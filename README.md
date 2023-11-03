@@ -15,11 +15,13 @@ Consider Android Application created in Practical-10 and add Sqlite feature such
 **Output:**
 
 **Light Theme:**
-<img src=https://github.com/rutviprajapati16/MAD_Practical11_21012011123/assets/97946004/eb03fee5-69e8-4d00-9a64-050b0478750b height="400" width="350">
 
-< img src=https://github.com/rutviprajapati16/MAD_Practical11_21012011123/assets/97946004/c1ed4887-c755-4ef5-8db4-63a163091977 height="400" width="350">
+![image](https://github.com/rutviprajapati16/MAD_Practical11_21012011123/assets/97946004/eb59589c-a440-4698-a47b-96fbee934bf8)
 
-< img src=https://github.com/rutviprajapati16/MAD_Practical11_21012011123/assets/97946004/129176ca-92f7-4127-b15c-38019878c56f height="400" width="350">
+![image](https://github.com/rutviprajapati16/MAD_Practical11_21012011123/assets/97946004/43660255-88fe-4cb3-ad71-e245c889e1a5)
+
+![image](https://github.com/rutviprajapati16/MAD_Practical11_21012011123/assets/97946004/c8572d14-d3fd-4156-8f5c-519cbcb8518f)
+
 
 
 
@@ -27,11 +29,13 @@ Consider Android Application created in Practical-10 and add Sqlite feature such
 
 
 **Dark Theme:**
-< img src=https://github.com/rutviprajapati16/MAD_Practical11_21012011123/assets/97946004/dd3b7d5e-1980-42e1-ac43-fbb768851e22 height="400" width="350">
 
-< img src=https://github.com/rutviprajapati16/MAD_Practical11_21012011123/assets/97946004/6d7cdd10-4dfc-4a8f-8544-4b9017d14b59 height="400" width="350">
+![image](https://github.com/rutviprajapati16/MAD_Practical11_21012011123/assets/97946004/5537ab07-ccd0-4b27-add1-64928f823b4b)
 
-< img src=https://github.com/rutviprajapati16/MAD_Practical11_21012011123/assets/97946004/3ccc0195-60fa-43c7-ab0d-55a50833d609 height="400" width="350">
+![image](https://github.com/rutviprajapati16/MAD_Practical11_21012011123/assets/97946004/0b25d632-9cb7-463e-8d84-121b9321ca12)
+
+![image](https://github.com/rutviprajapati16/MAD_Practical11_21012011123/assets/97946004/49cd89cb-b316-4153-a809-1ab048f79b65)
+
 
 
 
